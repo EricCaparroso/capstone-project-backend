@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.accesodatos</groupId>
-	<artifactId>03-JPARespository_ManyToManyBi_SimplePK_sec</artifactId>
+	<artifactId>capstone-project-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>03-JPARespository_ManyToManyBi_SimplePK_sec</name>
-	<description>Demo Spring JPA OneToMany Bidirectional SimplePK with spring security</description>
+	<name>capstone-project-backend</name>
+	<description>API REST para gestión de desguace: usuarios, piezas y reservas</description>
 	<url/>
 	<licenses>
 		<license/>
